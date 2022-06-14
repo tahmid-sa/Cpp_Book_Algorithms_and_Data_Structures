@@ -1,0 +1,4 @@
+﻿  Ch 1 Simple C++ Program.cpp
+  while.cpp
+while.obj : error LNK2005: _main already defined in Ch 1 Simple C++ Program.obj
+C:\Users\tahmi\VS Projects\repos\C++\Ch 1 Simple C++ Program\Release\Ch 1 Simple C++ Program.exe : fatal error LNK1169: one or more multiply defined symbols found
